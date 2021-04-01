@@ -2,7 +2,7 @@
   "dependencies": {
     "@rails/webpacker": "5.2.1",
     "babel-plugin-transform-react-jsx": "^6.24.1",
-    "preact": "^10.5.12"
+    "preact": "^10.5.13"
   },
   "devDependencies": {
     "webpack-dev-server": "^3.11.2"
